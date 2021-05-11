@@ -12,7 +12,7 @@
    viewBox="0 0 102.24255 102.24255"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo.svg">
   <defs
      id="defs2" />
@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="170.61299"
+     inkscape:cx="121.11552"
      inkscape:cy="199.21367"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
      id="layer1"
      transform="translate(-48.689125,-7.6324234)">
     <path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.36386549;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#3578e5;fill-opacity:1;stroke:none;stroke-width:1.36386549;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path21"
        sodipodi:type="arc"
        sodipodi:cx="99.810402"
@@ -63,7 +63,9 @@
        sodipodi:start="6.065238"
        sodipodi:end="6.0613191"
        sodipodi:open="true"
-       d="M 149.72232,47.699954 A 51.121277,51.121277 0 0 1 110.91304,108.65477 51.121277,51.121277 0 0 1 49.920238,69.905225 51.121277,51.121277 0 0 1 88.610004,8.8744859 51.121277,51.121277 0 0 1 149.67862,47.504439" />
+       d="M 149.72232,47.699954 A 51.121277,51.121277 0 0 1 110.91304,108.65477 51.121277,51.121277 0 0 1 49.920238,69.905225 51.121277,51.121277 0 0 1 88.610004,8.8744859 51.121277,51.121277 0 0 1 149.67862,47.504439"
+       inkscape:export-xdpi="254.39113"
+       inkscape:export-ydpi="254.39113" />
     <path
        sodipodi:type="star"
        id="path9863"

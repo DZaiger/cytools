@@ -12,7 +12,7 @@
    viewBox="0 0 128.93052 128.93049"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="titleimage-circle.svg"
    inkscape:export-filename="/home/ariostas/MEGA/Cornell/Talks/2020-11-03_String_Pheno_Seminar/titleimage.png"
    inkscape:export-xdpi="300"
@@ -27,13 +27,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="100.28412"
+     inkscape:cx="-97.705777"
      inkscape:cy="223.98567"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +56,7 @@
      id="layer1"
      transform="translate(-28.78125,15.160961)">
     <circle
-       style="fill:#cccccc;stroke:#ffffff;stroke-width:0.722671"
+       style="fill:#3578e5;stroke:#ffffff;stroke-width:0.722671;fill-opacity:1"
        id="path868"
        cx="93.246506"
        cy="49.304295"
